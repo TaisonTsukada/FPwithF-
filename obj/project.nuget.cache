@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2u5ywcGs47QkM0to019KZRPC56S42MtxUdzEXznPYaaX+2n6YROlT9iS5wlnd6QbkUoNZQlewCV9g1UEHQo1Gw==",
+  "success": true,
+  "projectFilePath": "/Users/tsukadataison-graph/project/fsharp/fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/tsukadataison-graph/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
